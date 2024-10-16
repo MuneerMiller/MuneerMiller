@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuneerMiller
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on any web development projects both front-end and back-end
 - 📫 You can reach me on muneermilleror@gmail.com or go to my website at https://muneermiller.github.io/
 
