@@ -56,8 +56,11 @@ I keep schools and businesses running on **Microsoft 365, Google Workspace** and
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [WeThinkCode_ projects](https://github.com/MuneerMiller/WeThinkCode-Projects) | Coursework, including a multiplayer text-based robot world built with a team of five: players join each other's random worlds of obstacles, mines and pits | Java · Python · Dart · SQLite |
-| [Social Media Tracker](https://github.com/MuneerMiller/WebApp) | Dashboard for social media stats with light and dark themes that follow the system setting | HTML · CSS · JavaScript |
+| [Login and Registration](https://github.com/MuneerMiller/login-json) | Sign-up and login with bcrypt-hashed passwords, session cookies, a protected dashboard and API tests | Node.js · Express · bcrypt |
+| [Library Management System](https://github.com/MuneerMiller/Python-Library-Project) | Command-line app to lend, return and search books, with validation and a unittest suite | Python · SQLite |
+| [Task List](https://github.com/MuneerMiller/Task-List-Application) | IBM SkillsBuild final project: a responsive, accessible to-do list that saves to the browser | HTML · CSS · JavaScript |
+| [WeThinkCode_ projects](https://github.com/MuneerMiller/WeThinkCode-Projects) | My coursework in Python and Java: toy robot worlds, Mastermind, Hangman, recursion and more | Python · Java · Dart |
+| [Social Media Tracker](https://github.com/MuneerMiller/Social-Media-Tracker) | Dashboard for social media stats with light and dark themes that follow the system setting | HTML · SCSS · JavaScript |
 | [Sticky Slider Navigation](https://github.com/MuneerMiller/Responsive-Home-Sticky-Slider-Navigation) | Nav bar that sticks on scroll, smooth-scrolls to sections and slides an indicator under the active tab | HTML · CSS · JavaScript · jQuery |
 | [Portfolio website](https://github.com/MuneerMiller/muneermiller.github.io) | My personal site and online CV | HTML · CSS · JavaScript |
 
