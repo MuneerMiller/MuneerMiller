@@ -25,6 +25,21 @@ I keep schools and businesses running on **Microsoft 365, Google Workspace** and
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/MuneerMiller/pc-power"><img src="assets/pc-power-banner.webp" alt="PC Power: the Windows app and the Android app"></a>
+      <h3><a href="https://github.com/MuneerMiller/pc-power">PC Power</a></h3>
+      <p>Schedule when a PC turns off and on, and control it from your phone: shut down, restart, sleep, hibernate, timed wake and Wake-on-LAN. A Windows tray app and an Android app that talk directly to each other, with no account and no server.</p>
+      <p>The phone and PC connect over TLS 1.3 with certificate pinning and pair with a one-time code. Guided setup checks the PC's wake settings, and the Terms of Use and Privacy Policy are built in. Being prepared for release on Google Play.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/Windows%20·%20Android-555?style=flat-square" alt="Windows, Android">
+      </p>
+      <b><a href="https://github.com/MuneerMiller/pc-power">▶ View the code</a></b>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://muneermiller.github.io/WeThinkCode-Projects/demo.html"><img src="assets/elderly-care-banner.webp" alt="Elderly Care app"></a>
       <h3><a href="https://github.com/MuneerMiller/WeThinkCode-Projects/tree/main/elderly_app-master">Elderly Care</a></h3>
