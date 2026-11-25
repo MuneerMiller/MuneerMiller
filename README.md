@@ -26,6 +26,21 @@ I keep schools and businesses running on **Microsoft 365, Google Workspace** and
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://github.com/MuneerMiller/deepscrape"><img src="assets/deepscrape-banner.webp" alt="DeepScrape: the dashboard showing a finished scrape and the lens library"></a>
+      <h3><a href="https://github.com/MuneerMiller/deepscrape">DeepScrape</a></h3>
+      <p>Scrape a whole website the way a visitor sees it, then look at it from every angle. A dashboard that runs on your own computer opens every page in a real browser and saves the text, documents, images and background data behind it, with a sign-in window for members-only pages.</p>
+      <p>It reviews security, design, accessibility, speed and privacy, reads a site through a library of 1,860 lenses, takes your own AI for written verdicts, and exports the data sets, pages and format you choose. Covered by over 150 automated checks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Runs%20on%20your%20own%20computer-555?style=flat-square" alt="Runs on your own computer">
+      </p>
+      <b><a href="https://github.com/MuneerMiller/deepscrape">▶ View the code</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://github.com/MuneerMiller/pc-power"><img src="assets/pc-power-banner.webp" alt="PC Power: the Windows app and the Android app"></a>
       <h3><a href="https://github.com/MuneerMiller/pc-power">PC Power</a></h3>
       <p>Schedule when a PC turns off and on, and control it from your phone: shut down, restart, sleep, hibernate, timed wake and Wake-on-LAN. A Windows tray app and an Android app that talk directly to each other, with no account and no server.</p>
